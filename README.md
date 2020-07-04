@@ -1,4 +1,3 @@
 # Aufgabe_02
-## I made two reports:
-## trajectory.pdb  and data.csv are without minimization;
-## An added _min means I used the minimization line.
+## I didn't manage to assign the atoms correctly. The numbers in the PDB-reporter seems to have different mount auf assigning a number to each atom then the data aquired by forcefiel.label_molecules(off_topology)[0].
+
